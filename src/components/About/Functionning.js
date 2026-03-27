@@ -44,6 +44,10 @@ export default function FunctioningSection() {
                         </ul>
                     </div>
 
+                    <p className="mt-8 text-gray-700 italic">
+                        <strong>N.B. :</strong>Tous les membres de la Direction (Président, Secrétaire Général, etc.) sont également membres d’un régiment.
+                    </p>
+
 
                     {/* Cercle des régiments */}
                     <div>
@@ -52,10 +56,6 @@ export default function FunctioningSection() {
                             className="w-[400px] h-auto mx-auto"
                             src={regiment}
                         />
-
-                        <p className="mt-8 text-gray-700 italic">
-                            Tous les membres de la Direction (Président, Secrétaire Général, etc.) sont également membres d’un régiment.
-                        </p>
                     </div>
 
                 </div>
