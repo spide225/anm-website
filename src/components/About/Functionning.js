@@ -42,13 +42,10 @@ export default function FunctioningSection() {
                             <li>contribuent aux projets, et</li>
                             <li>représentent l’ANM dans leurs zones ou domaines.</li>
                         </ul>
+                        <p className="mt-8 text-gray-700 italic">
+                            <strong>N.B. :</strong>Tous les membres de la Direction (Président, Secrétaire Général, etc.) sont également membres d’un régiment.
+                        </p>
                     </div>
-
-                    <p className="mt-8 text-gray-700 italic">
-                        <strong>N.B. :</strong>Tous les membres de la Direction (Président, Secrétaire Général, etc.) sont également membres d’un régiment.
-                    </p>
-
-
                     {/* Cercle des régiments */}
                     <div>
                         <Image
